@@ -1,5 +1,7 @@
 # AI Enabled Virtual P-therapist
 
+## Summary
+
 Dr. Zolo uses audio-visual communication to help people with emotional/behaviour problems & mental illnesses.
 
 ## Background
